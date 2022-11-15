@@ -1,4 +1,4 @@
-tweetID	label	has_replay	sarcasm	Contains_Hate	number_of_replies	sarcasm_mean	hate_mean
+tweetID	label	has_reply	sarcasm	Contains_Hate	number_of_replies	sarcasm_mean	hate_mean
 1228409143637291019	TRUE	1	0	0	10	0	0
 1227476392511713285	FALSE	1	0	0	2	0.5	0
 1226615186422980608	FALSE	1	0	0	1	0	0
